@@ -1,0 +1,21 @@
+body {
+    background-color: #000000;
+    color: #3336ff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+.container {
+    width: 300px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+input, button {
+    width: 100%;
+    margin-top: 10px;
+}
+button:hover
+{
+    background:#4733ff ;
+    
+}
